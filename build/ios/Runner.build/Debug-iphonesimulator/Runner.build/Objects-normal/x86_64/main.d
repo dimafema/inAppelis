@@ -1,0 +1,19 @@
+dependencies: \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Runner/main.m \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/InAppelis/ios/Runner/AppDelegate.h
