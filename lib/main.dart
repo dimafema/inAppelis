@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,//se quita marca del simulador
-      title: 'InAppelis_pueba_git', //título de la aplicación
+      title: 'InAppelis', //título de la aplicación
       initialRoute: '/', //Ruta de inicio de la app
       routes: { //Navegación diferentes páginas
         '/'       : ( BuildContext context ) => HomePage(),
