@@ -13,9 +13,9 @@ class Cast {
       actores.add(actor);
     });
   }
-
 }
 
+//Contruimos los datos que solicitamos de actores
 class Actor {
   int castId;
   String character;
@@ -47,11 +47,10 @@ class Actor {
     name        = json['name'];
     order       = json['order'];
     profilePath = json['profile_path'];
-
   }
 
+//Si no  tiene foto se muestra una img alternativa, si no buscamos la foto del actor en la base de datos
    getFoto() {
-
     if ( profilePath == null ) {
       return 'http://forum.spaceengine.org/styles/se/theme/images/no_avatar.jpg';
     } else {

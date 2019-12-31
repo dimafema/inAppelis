@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return MaterialApp(
-      debugShowCheckedModeBanner: false,//se quita marca del simulador
+      debugShowCheckedModeBanner: false,//Quita la marca del simulador
       title: 'InAppelis', //título de la aplicación
       initialRoute: '/', //Ruta de inicio de la app
       routes: { //Navegación diferentes páginas

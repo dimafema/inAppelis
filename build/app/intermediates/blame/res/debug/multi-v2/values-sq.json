@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\diego\\Downloads\\Proyectos\\InAppelis\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "/Volumes/ExFAT/diegofdez_externo/PROGRAMACIÓN/Diego/inAppelis/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\diego\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcacd3703402824d5b9154ea678d663c\\res\\values-sq\\values-sq.xml",
+                    "source": "/Volumes/NVMe_128Gb/diegofdez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/66590dc31c9e281b9880f5baa8518c64/res/values-sq/values-sq.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
